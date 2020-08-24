@@ -1,4 +1,4 @@
-# Highlights
+# Variables, simple data types and string interpolation
 
 ## Variables
 - Variables in Swift are initialized with the keyword `var`. These variables can change their value later but NOT the type.
