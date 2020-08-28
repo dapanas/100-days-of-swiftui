@@ -1,4 +1,5 @@
 # Arrays, dictionaries, sets and enums
+
 > When the going gets tough, everyone leaves. -- Lynch's Law
 
 ## Arrays

@@ -1,4 +1,5 @@
 # Operators and conditions
+
 > Computers are like Old Testament gods: lots of rules and no mercy. -- Joseph Campbell
 
 ## Arithmetic Operators

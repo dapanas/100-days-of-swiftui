@@ -1,4 +1,5 @@
 # Variables, simple data types and string interpolation
+
 > The secret to getting ahead is getting started. -- Mark Twain
 
 ## Variables
