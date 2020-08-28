@@ -1,4 +1,5 @@
 # Operators and conditions
+> Computers are like Old Testament gods: lots of rules and no mercy. -- Joseph Campbell
 
 ## Arithmetic Operators
 - Swift has a special operator for calculating remainders after division: `%`. It calculates how many times one number can fit inside another, then sends back the value that’s left over.

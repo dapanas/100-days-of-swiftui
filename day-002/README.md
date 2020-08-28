@@ -1,4 +1,5 @@
 # Complex data types
+> When the going gets tough, everyone leaves. -- Lynch's Law
 
 ## Arrays
 - Arrays are collections of values that are stored as a single value.
